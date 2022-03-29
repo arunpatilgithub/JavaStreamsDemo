@@ -29,7 +29,6 @@ public class DishTestData {
     }
 
     @Getter
-    @Setter
     @AllArgsConstructor
     public class Dish {
 
